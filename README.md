@@ -9,3 +9,6 @@ will save all the prescription provided by doctor at a single secured place.The
 medibuddy app will allow user to store the prescription directly provided by 
 doctor and can also contact the doctor during emergency situation for guidance 
 or suggestions or any type of advice required.
+https://bit.ly/StriversA2ZDSACourseSheet
+https://bit.ly/DSAbyApnaCollege
+https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?usp=sharing
